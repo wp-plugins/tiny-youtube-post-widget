@@ -2,7 +2,7 @@
 Contributors: rnaby
 Tags: widget, youtube, meta-box, video
 Requires at least: 3.0.1
-Tested up to: 4.1.1
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,3 +50,6 @@ Yes. You can. Just look at the screenshots.
 
 = 1.0.0 =
 * Initial version.
+
+= 2.0.0 =
+* Fixed Some functions and made compatible with WordPress 4.3 .
