@@ -4,7 +4,7 @@
  * Plugin Name: Tiny YouTube Post Widget
  * Plugin URI: http://rnaby.github.io
  * Description: A plugin for embeding YouTube videos to sidebar through widget for each different posts.
- * Version: 1.0.0
+ * Version: 2.0.0
  * Author: Khan Mohammad Rashedun-Naby
  * Author URI: bd.linkedin.com/in/rnaby
  * License: GPL V3
