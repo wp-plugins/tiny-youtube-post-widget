@@ -48,8 +48,8 @@ Yes. You can. Just look at the screenshots.
 
 == Changelog ==
 
-= 1.0.0 =
-* Initial version.
-
 = 2.0.0 =
 * Fixed Some functions and made compatible with WordPress 4.3 .
+
+= 1.0.0 =
+* Initial version.
